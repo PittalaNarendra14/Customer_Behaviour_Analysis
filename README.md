@@ -73,6 +73,7 @@ Performed business-focused queries such as:
 ---
 ## 📁 Project Structure
 
+```
 Customer-Shopping-Behavior-Analysis/
 │
 ├── notebooks/
@@ -95,7 +96,7 @@ Customer-Shopping-Behavior-Analysis/
 │
 ├── project_report.pdf
 └── README.md
-
+```
 ## ▶️ How to Run
 
 1. Open the Jupyter Notebook (`.ipynb`) to view data cleaning and analysis.
