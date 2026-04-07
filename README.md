@@ -18,7 +18,7 @@ The project follows a complete data analytics workflow including data cleaning, 
 
 ## 🛠️ Tools & Technologies
 - **Python (Jupyter Notebook)** – Data cleaning & EDA  
-- **SQL (PostgreSQL / MySQL / SQL Server)** – Data analysis  
+- **SQL ( MySQL / SQL Server)** – Data analysis  
 - **Power BI** – Interactive dashboard  
 - **Excel** – Dataset storage  
 - **Gamma (PPT)** – Presentation creation  
@@ -77,22 +77,23 @@ Performed business-focused queries such as:
 Customer-Shopping-Behavior-Analysis/
 │
 ├── notebooks/
-│   └── analysis.ipynb
+│   └── notebooks/
+   └── data_cleaning_analysis.ipynb
 │
 ├── sql/
-│   └── queries.sql
+│   └── sql_queries.sql
 │
 ├── dashboard/
 │   └── dashboard.pbix
 │
 ├── images/
-│   └── dashboard.png
+│   └── Dashboard.png
 │
 ├── data/
 │   └── shopping_data.csv / shopping_data.xlsx
 │
 ├── presentation/
-│   └── project.pptx
+│   └── presentation.pptx
 │
 ├── project_report.pdf
 └── README.md
@@ -100,7 +101,7 @@ Customer-Shopping-Behavior-Analysis/
 ## ▶️ How to Run
 
 1. Open the Jupyter Notebook (`.ipynb`) to view data cleaning and analysis.
-2. Run the SQL queries in your preferred database (PostgreSQL / SQL Server).
+2. Run the SQL queries in your preferred database (SSMS / SQL Server).
 3. Open the Power BI file (`.pbix`) to explore the dashboard.
 
 ## 🚀 Conclusion
