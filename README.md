@@ -59,7 +59,7 @@ Performed business-focused queries such as:
 
 ## 📈 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
