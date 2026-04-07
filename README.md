@@ -71,11 +71,37 @@ Performed business-focused queries such as:
 - Certain age groups contribute more to overall revenue  
 
 ---
+## 📁 Project Structure
+
+Customer-Shopping-Behavior-Analysis/
+│
+├── notebooks/
+│   └── analysis.ipynb
+│
+├── sql/
+│   └── queries.sql
+│
+├── dashboard/
+│   └── dashboard.pbix
+│
+├── images/
+│   └── dashboard.png
+│
+├── data/
+│   └── shopping_data.csv / shopping_data.xlsx
+│
+├── presentation/
+│   └── project.pptx
+│
+├── project_report.pdf
+└── README.md
 
 ## ▶️ How to Run
 
-### 🔹 Python (Jupyter Notebook)
-1. Open the notebook file (`.ipynb`)
-2. Install required libraries:
-   ```bash
-   pip install pandas numpy matplotlib seaborn
+1. Open the Jupyter Notebook (`.ipynb`) to view data cleaning and analysis.
+2. Run the SQL queries in your preferred database (PostgreSQL / SQL Server).
+3. Open the Power BI file (`.pbix`) to explore the dashboard.
+
+## 🚀 Conclusion
+
+This project showcases an end-to-end data analytics workflow, combining Python, SQL, and Power BI to transform raw data into actionable insights. It highlights key trends in customer behavior, purchasing patterns, and revenue distribution, enabling data-driven decision-making and strategic business improvements.
