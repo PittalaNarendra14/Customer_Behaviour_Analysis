@@ -90,7 +90,7 @@ Customer-Shopping-Behavior-Analysis/
 │   └── Dashboard.png
 │
 ├── data/
-│   └── shopping_data.csv / shopping_data.xlsx
+│   └── shopping_data.csv
 │
 ├── presentation/
 │   └── presentation.pptx
